@@ -1,2 +1,2 @@
-# Amazon_website_clone1
+# Amazon-website-clone
 Internship project
